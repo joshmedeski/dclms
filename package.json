@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joshmedeski/dclms/issues"
   },
-  "homepage": "https://github.com/joshmedeski/dclms#readme"
+  "homepage": "https://github.com/joshmedeski/dclms#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
